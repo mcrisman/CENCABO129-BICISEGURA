@@ -22,7 +22,7 @@ Implementa además una serie de herramientas que brindan a los biciusuarios unb 
 ## Wireframe
 
 Aunque está en constantes ajustes esta es nuestra espa de prototipado
-* *En proceso* - [Wireframe en Marvel](https://marvelapp.com/5eje1f3)
+*terminado* - [Wireframe en Marvel](https://marvelapp.com/5eje1f3)
 
 ### Landig Page
 
@@ -32,7 +32,7 @@ Aunque está en constantes ajustes esta es nuestra espa de prototipado
 ## Autores
 
 * **LEONARDO HERNÁNDEZ** - *Diseño y Frontend /Idea inicial* - [Github](https://github.com/artdesingleo)
-
+* **FREDY RODRIGUEZ** - *wireframe /backend* - [Github](https://github.com/fredyrc)
 
 
 ## Agradecimientos
