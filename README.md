@@ -38,6 +38,6 @@ Aunque está en constantes ajustes esta es nuestra espa de prototipado
 
 ## Agradecimientos
 
-* A todo los entes gubornamentales que han hhecho esta conovcatoria de manera pública a todos los que tenemos hambre de conocmienieto y poder contribuir en el avance tengnógico de nuestro país
+* A todo los entes gubornamentales que han hecho esta convocatoria de manera pública a todos los que tenemos hambre de conocimiento y poder contribuir en el avance tecnològico de nuestro país
 * Nadie dijo que sería fácil, pero tampoco imposible "Programando después de los 30" *Leonardo Hernández - Artdesingleo*
 
