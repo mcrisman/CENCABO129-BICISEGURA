@@ -34,6 +34,7 @@ Aunque está en constantes ajustes esta es nuestra espa de prototipado
 * **LEONARDO HERNÁNDEZ** - *Diseño y Frontend /Idea inicial* - [Github](https://github.com/artdesingleo)
 * **FREDY RODRIGUEZ** - *wireframe /backend* - [Github](https://github.com/fredyrc)
 * **JHONNY PEÑA** - *mapa /backend* - [Github](https://github.com/jofepe16)
+* **CRISMAN MARTINEZ B.** - *mapa /backend* - [Github](https://github.com/mcrisman)
 
 
 ## Agradecimientos
