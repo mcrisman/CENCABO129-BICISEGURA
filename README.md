@@ -4,6 +4,10 @@
 ¿Cómo podemos disminuir el robo de bicicletas en la
 localidad?
 
+## La Situación
+
+La situación de la localidad parte de que el robo de bicicletas ha aumentado considerablemente ya que según perciben los ciudadanos las mafias alrededor de estos actos delictivos se están organizando descaradamente. Las bicicletas que se dejan amarradas con cadenas son trozadas y hurtadas e incluso en ocasiones los ladrones bajan agresivamente a los ciclistas sobre la ciclo ruta amenazandolos con cuchillos o pistolas.
+
 ## Descripciòn
 
 Bici Segura, es  un aplicativo que busca tener una mayor control de las biclicletas y controlar el robo dentro de una red del distrito y de la localidad a la que pertenece cada usuario. Algo similar al Runt para carros. La particularidad está en contar con la posibilidad de realizar una alerta en caso de robo y por consiguiente la ubicación de la biclicleta a traves de la geolocalización. 
