@@ -1,10 +1,5 @@
 # CENCABO129-BICISEGURA
 
-## Reto
-¿Cómo podemos disminuir el robo de bicicletas en la
-localidad?
-
-## Descripciòn
 
 Bici Segura, es  un aplicativo que busca tener una mayor control de las biclicletas y controlar el robo dentro de una red del distrito y de la localidad a la que pertenece cada usuario. Algo similar al Runt para carros. La particularidad está en contar con la posibilidad de realizar una alerta en caso de robo y por consiguiente la ubicación de la biclicleta a traves de la geolocalización. 
 y de la mano de un Chip de GPS en la bicileta realizar la geolocalización del vehiculo 
@@ -39,6 +34,8 @@ Aunque está en constantes ajustes esta es nuestra espa de prototipado
 * **LEONARDO HERNÁNDEZ** - *Diseño y Frontend /Idea inicial* - [Github](https://github.com/artdesingleo)
 * **FREDY RODRIGUEZ** - *wireframe /backend* - [Github](https://github.com/fredyrc)
 * **JHONNY PEÑA** - *mapa /backend* - [Github](https://github.com/jofepe16)
+* **CRISMAN MARTINEZ** - * Casos de uso* - [Github](https://github.com/mcrisman)
+
 
 
 ## Agradecimientos
